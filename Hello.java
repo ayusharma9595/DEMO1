@@ -1,5 +1,5 @@
 public class Hello{
 public static void main(String [] args){
-System.out.println("WORLD_of_JAVA");
+System.out.println("it is a BUG ! ");
 }
 }
